@@ -1,5 +1,5 @@
 _repo: Hassan-the-story-of-Hassan-of-Bagdad-and-how-he-came-to-make-the-golden-journey-to-Samarkand-a__3834
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Iraq -- Drama'
+- GITenberg
 title: 'Hassan : the story of Hassan of Bagdad, and how he came to make the golden
   journey to Samarkand : a play in five acts'
 url: http://www.gutenberg.org/ebooks/3834
